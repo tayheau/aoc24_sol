@@ -6,6 +6,7 @@
 
 <details>
     <summary>Problem 1 Results [Python]</summary>
+
     | Part   | Answer     |
     |--------|------------|
     | Part 1 | `2196996`  |
@@ -14,6 +15,7 @@
 
 <details>
     <summary>Problem 2 Results [Python]</summary>
+    
     | Part   | Answer     |
     |--------|------------|
     | Part 1 | `463`      |
@@ -22,16 +24,18 @@
 
 <details>
     <summary>Problem 3 Results [Bash]</summary>
+
     | Part   | Answer     |
     |--------|------------|
     | Part 1 | `191183308`|
-    | Part 2 | `92082041`|
+    | Part 2 | `92082041` |
 </details>
 
 <details>
     <summary>Problem 4 Results [C++17]</summary>
+
     | Part   | Answer     |
     |--------|------------|
-    | Part 1 | `2401`|
-    | Part 2 | `1822`|
+    | Part 1 | `2401`     |
+    | Part 2 | `1822`     |
 </details>
