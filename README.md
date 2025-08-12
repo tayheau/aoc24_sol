@@ -1,5 +1,4 @@
 # Advent of Code 24 ! 
----
 ![Static Badge](https://img.shields.io/badge/%20nvim-btw-blue?logo=neovim&logoColor=%23ffffff)
 > Hey ! This is a small repo with my answers to the advent of code 24 !
 > This is definitly not the best `README` but have a look ;)
@@ -19,7 +18,7 @@
     | Part   | Answer     |
     |--------|------------|
     | Part 1 | `463`      |
-    | Part 2 | `514` |
+    | Part 2 | `514`      |
 </details>
 
 <details>
