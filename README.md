@@ -1,4 +1,7 @@
-# Submission for Wandercraft
+#Advent of Code 24 ! 
+![Static Badge](https://img.shields.io/badge/nvim-btw-blue)
+---
+
 
 ## Problem 1 Results
 solved with `python`
